@@ -1,7 +1,10 @@
-# hackernews-async-ts
+# vika-curl
+基于维格表实现的Todo List服务
 
-[Hacker News](https://news.ycombinator.com/) showcase using typescript && egg
 
+
+
+- [vika api](https://vika.cn/developers/api/introduction)
 ## QuickStart
 
 ### Development
